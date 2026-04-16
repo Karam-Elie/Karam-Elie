@@ -1,16 +1,30 @@
-## Hi there 👋
+# Elie Karam
 
-<!--
-**Karam-Elie/Karam-Elie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Revenue Analytics & Systems Lead at Thanos Hotels & Resorts, Cyprus.  
+MSc in Data Analytics in Accounting and Finance.
 
-Here are some ideas to get you started:
+I manage revenue data systems and distribution across a portfolio of luxury 
+hotels: Opera Cloud, channel managers, OTA integrations, and the analytics 
+layer that sits above all of it. On the side, I study quantitative finance: 
+derivatives pricing, financial modelling, and data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile is where I put things I actually build.
+
+---
+
+## What I work with
+
+- **Revenue systems**: Opera Cloud, Webhotelier, Synxis, Hotelbeds, channel management
+- **Analytics & BI**: Power BI, Excel, OBI reporting, reconciliation automation
+- **Finance**: Financial derivatives, quantitative models, financial statement analysis
+- **Building**: Python (learning), browser-based tools, data workflows
+
+---
+
+## Projects
+
+*Projects to be added soon*
+
+---
+
+*Cyprus · Revenue Management · Data Analytics · Finance*
