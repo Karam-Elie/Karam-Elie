@@ -25,6 +25,3 @@ This profile is where I put things I actually build.
 
 *Projects to be added soon*
 
----
-
-*Cyprus · Revenue Management · Data Analytics · Finance*
